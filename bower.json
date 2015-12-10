@@ -1,0 +1,24 @@
+{
+  "name": "mylocal",
+  "version": "0.0.1",
+  "authors": [
+    "Cyril DALLY <cyril.dally.facchinetti@gmail.com>"
+  ],
+  "description": "JS packages manager for my simple web app wrapper",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

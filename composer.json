@@ -1,0 +1,12 @@
+{
+    "name": "cdf/mylocal",
+    "description": "PHP packages manager for my simple web app wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cyril DALLY",
+            "email": "cyril.dally.facchinetti@gmail.com"
+        }
+    ],
+    "require": {}
+}
